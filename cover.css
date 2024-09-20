@@ -39,7 +39,7 @@ html,
 body {
   height: 100%;
   background-color: #FF9200;
-  background-color: #FF9A00;
+  background-color: #FF9A;
 }
 body {
   color: #333;
@@ -180,6 +180,6 @@ body {
   .mastfoot,
   .cover-container {
     width: 800px;
-    
+
   }
 }
